@@ -4,7 +4,7 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of primusprojects is to ...
+primusprojects sets standarized project folder structure.
 
 ## Installation
 
@@ -22,5 +22,6 @@ This is a basic example which shows you how to solve a common problem:
 ``` r
 library(primusprojects)
 ## basic example code
+
 ```
 
