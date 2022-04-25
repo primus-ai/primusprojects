@@ -2,7 +2,7 @@
 
 #' Primus Machine Learning Project Structure Function
 #'
-#'@param folders input folders to create. Default data, data exp, data prep, models, model_eval, reports, scripts, visualizations
+#' @param folders input folders to create. Default data, data exp, data prep, models, model_eval, reports, scripts, visualizations
 #'
 #' @return No return, just creates projects folders
 #' @importFrom fs dir_create
