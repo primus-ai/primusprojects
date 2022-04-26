@@ -21,6 +21,6 @@ Title
 \examples{
 
 require(fs)
-primus_model_project_delete
+primus_model_project_delete()
 
 }
