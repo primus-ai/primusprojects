@@ -30,7 +30,7 @@ primus_model_project_create <- function(folders = c("00_data", "01_data_exp", "0
 #' @examples
 #'
 #' require(fs)
-#' primus_model_project_delete
+#' primus_model_project_delete()
 #'
 primus_model_project_delete <- function(folders = c("00_data", "01_data_exp", "02_data_prep", "03_models", "04_model_eval", "05_reports", "06_scripts", "07_visualizations")){
     folders <- folders
